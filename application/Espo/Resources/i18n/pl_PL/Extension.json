@@ -3,10 +3,10 @@
     "name": "Nazwa",
     "version": "Wersja",
     "description": "Opis",
-    "isInstalled": "Zainstalowano"
+    "isInstalled": "Zainstalowany"
   },
   "labels": {
-    "Uninstall": "Deinstaluj",
+    "Uninstall": "Odinstaluj",
     "Install": "Instaluj"
   },
   "messages": {
