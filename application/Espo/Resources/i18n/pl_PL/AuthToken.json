@@ -1,7 +1,7 @@
 {
   "fields": {
     "user": "Użytkownik",
-    "ipAddress": "IP Adres",
+    "ipAddress": "Adres IP",
     "lastAccess": "Data ostatniego logowania",
     "createdAt": "Data Logowania"
   }
